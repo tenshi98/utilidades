@@ -29,4 +29,4 @@ __Apuntes__:
   - [UML Básico](UML/basico.md)
 
 __Traduccion Documentacion Oficial__:
-  - [Oficial](daringfireball)
+  - [Documentacion Oficial](daringfireball)

@@ -14,8 +14,8 @@ Enlace al sitio oficial web: [daringfireball][]
 
 Traducciones hechas por mí del sitio:
 
-  - [Lo Básico](daringfireball/basics.md)
-  - [Sintaxis](daringfireball/syntax.md)
+  - [Lo Básico](basics.md)
+  - [Sintaxis](syntax.md)
 
 
 
