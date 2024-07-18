@@ -1,5 +1,5 @@
 # Utilidades
-pequeñas herramientas hechas para solucionar ciertos problemas
+Pequeñas herramientas hechas para solucionar ciertos problemas
 
 ### Uso 🚀
 Los batch files son pequeñas utilidades para windows, su funcion es la que indica el nombre del archivo
