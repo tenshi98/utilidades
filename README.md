@@ -1,14 +1,14 @@
 # Utilidades
 Pequeñas herramientas hechas para solucionar ciertos problemas
 
-### Uso 🚀
+## Uso 🚀
 Los batch files son pequeñas utilidades para windows, su funcion es la que indica el nombre del archivo
 Los markdown son archivos de ejemplo de estos
 
 ## Licencia 📄
 Este proyecto está bajo la Licencia GPL-3.0 license - ve el archivo [LICENSE](LICENSE) para detalles
 
-### Contacto 📖
+## Contacto 📖
 Puedes contactarte conmigo a traves de cualquier de los siguientes canales:
 - [Github](https://github.com/tenshi98)
 - [Linkedin](https://www.linkedin.com/in/victor-reyes-galvez/)
